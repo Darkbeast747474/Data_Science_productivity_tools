@@ -5,8 +5,8 @@
 - [Outliers Removers](https://github.com/Darkbeast747474/Data_Science_productivity_tools/blob/main/out_r.py) - Removes The Outliers By Filling The Outliers Values With The Upper And Lower Limit Of QR(Quartial Range) Given By The Formula :
 
 ```
-$IQR = Q3 - Q1
-$lower = Q1 - 1.5*IQR
-$upper = Q3 + 1.5*IQR
+$IQR = Q3 - Q1$
+$lower = Q1 - 1.5*IQR$
+$upper = Q3 + 1.5*IQR$
 ```
 
